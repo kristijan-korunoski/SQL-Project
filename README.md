@@ -6,4 +6,4 @@ Kristijan Korunoski (22966841)
 
 A simple database project improving an existing database to enhance the long-term integrity of the database, e.g. by making the database resistant to data corruption caused by careless users.
 
-#### UWA CITS3002 Project
+#### UWA CITS1402 Project
